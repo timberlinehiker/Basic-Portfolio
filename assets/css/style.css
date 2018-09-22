@@ -1,5 +1,7 @@
 /* style sheet for basic portfolio
  */
+ font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;`
+ 
  header {
      background-color: #ffffff
      border: 5px #cccccc
@@ -21,4 +23,3 @@
   }
 
   img {float: left;}
-  
